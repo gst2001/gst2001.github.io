@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body bgcolor="rgb(244,241,234)">
+<h1 style="color:blue;font-size:45px;text-align:center"> QUALIFICATION </h1>
+<br>
+<br>
+<ol>
+<li> <b>Class-10:</b> From Kendriya Vidyalaya No-1, Jaipur.<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Scored: 9.8 CGPA</li>
+<li> <b> Class-12:</b> Scored: 90%</li>
+<li> JEE Qualified with good rank</li>
+<ol>  
+</body>
+</html>
